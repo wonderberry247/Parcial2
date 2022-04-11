@@ -2,7 +2,7 @@
 Nombre: Ever Alexander Ávila de León
 Carné: 200419533
 Inicio de sesión: 
-Usuario: Hola
+Usuario: root
 Password: 123
 
 Este proyecto usa distintas plataformas para su elaboración.
